@@ -9,7 +9,6 @@ cast_away = media.Movie(
                         stranded on an uninhabited island",
                         "https://upload.wikimedia.org/wikipedia/en/a/a7/Cast_away_film_poster.jpg",
                         "https://www.youtube.com/watch?v=PJvosb4UCLs")
-print(cast_away.storyline)
 
 # creating avatar movie instance from Movie Class
 avatar = media.Movie("Avatar",
